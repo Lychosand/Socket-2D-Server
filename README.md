@@ -9,5 +9,5 @@ Goals of the program were to experiment with a simple static server.  Practice w
 1. run multiple tabs at that address to view other entities
 
 ## Controls
-1.arrow keys to move
-1.space to jump
+1. Arrow keys to move
+1. Space to jump
